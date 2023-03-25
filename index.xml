@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Srinivas Iyer</title>
+    <link>https://srinivas93.github.io/prodsite/</link>
+    <description>Recent content on Srinivas Iyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://srinivas93.github.io/prodsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
