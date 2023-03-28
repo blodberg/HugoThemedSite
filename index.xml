@@ -6,9 +6,19 @@
     <description>Recent content on Srinivas Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.siyer.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://www.siyer.me/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.siyer.me/about/</guid>
+      <description>I try NOT to live life chasing the societal idea of &amp;ldquo;success&amp;rdquo;. My list of interests and hobbies keep growing but traveling 🌎 and biking 🚴 are on top of that list.</description>
+    </item>
     
   </channel>
 </rss>
