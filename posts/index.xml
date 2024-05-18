@@ -1,0 +1,57 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Srinivas Iyer</title>
+        <link>https://www.siyer.me/posts/</link>
+        <description>Recent content in Posts on Srinivas Iyer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://www.siyer.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Best of 2023</title>
+            <link>https://www.siyer.me/posts/2023/12/best-of-2023/</link>
+            <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.siyer.me/posts/2023/12/best-of-2023/</guid>
+            <description>Here&amp;rsquo;s a list of stuff that I enjoyed in 2023.
+TV Shows  Good Omens S2 What We Do In The Shadows S5 Ted Lasso S3 Poker Face Beckham (Documentary) Farzi (Hindi) Dahaad (Hindi) Slow Horses The Bear S2 Barry S4 Succession S3 Only Murders in the Building S3  Movies  Oppenheimer Mission Impossible Dead Reckoning Part 1 Dunki (Hindi) 12th Fail (Hindi) Spider-man: Across the Spider-Verse A Haunting in Venice Anatomy of a Fall  Games  Cyberpunk 2077 : Phantom Liberty DLC Hogwarts Legacy Baldur&amp;rsquo;s Gate 3 Spider-man 2 Dave the Diver  </description>
+            <content type="html"><![CDATA[<p>Here&rsquo;s a list of stuff that I enjoyed in 2023.</p>
+<h4 id="tv-shows">TV Shows</h4>
+<ul>
+<li>Good Omens S2</li>
+<li>What We Do In The Shadows S5</li>
+<li>Ted Lasso S3</li>
+<li>Poker Face</li>
+<li>Beckham (Documentary)</li>
+<li>Farzi (Hindi)</li>
+<li>Dahaad (Hindi)</li>
+<li>Slow Horses</li>
+<li>The Bear S2</li>
+<li>Barry S4</li>
+<li>Succession S3</li>
+<li>Only Murders in the Building S3</li>
+</ul>
+<h4 id="movies">Movies</h4>
+<ul>
+<li>Oppenheimer</li>
+<li>Mission Impossible Dead Reckoning Part 1</li>
+<li>Dunki (Hindi)</li>
+<li>12th Fail (Hindi)</li>
+<li>Spider-man: Across the Spider-Verse</li>
+<li>A Haunting in Venice</li>
+<li>Anatomy of a Fall</li>
+</ul>
+<h4 id="games">Games</h4>
+<ul>
+<li>Cyberpunk 2077 : Phantom Liberty DLC</li>
+<li>Hogwarts Legacy</li>
+<li>Baldur&rsquo;s Gate 3</li>
+<li>Spider-man 2</li>
+<li>Dave the Diver</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
