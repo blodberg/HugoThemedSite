@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://www.siyer.me/posts/2023/12/archive/</loc>
+    <loc>http://localhost:54304/posts/2023/12/archive/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.siyer.me/travel/</loc>
+  </url><url>
+    <loc>http://localhost:54304/travel/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.siyer.me/posts/</loc>
+  </url><url>
+    <loc>http://localhost:54304/posts/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.siyer.me/</loc>
+  </url><url>
+    <loc>http://localhost:54304/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.siyer.me/about/</loc>
+  </url><url>
+    <loc>http://localhost:54304/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54304/categories/</loc>
+  </url><url>
+    <loc>http://localhost:54304/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://www.siyer.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.siyer.me/tags/</loc>
-  </url>
-  
 </urlset>
