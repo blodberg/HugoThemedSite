@@ -4,6 +4,7 @@
         <link>https://www.siyer.me/posts/</link>
         <description>Recent content in Posts on Srinivas Iyer</description>
         <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
         <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.siyer.me/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +15,7 @@
             <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
             
             <guid>https://www.siyer.me/posts/2023/12/archive/</guid>
-            <description>No posts to show.</description>
+            <description>&lt;p&gt;No posts to show.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>No posts to show.</p>
 ]]></content>
         </item>
